@@ -1,0 +1,38 @@
+html {
+    font-family: 'Signika', sans-serif;
+}
+
+.navigace {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-around;
+    background-color:rgb(234, 234, 234);
+    padding: 2em;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    }
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(177, 213, 255);
+    border-radius: 50%;
+    display: inline-block;
+    transition: 0.3s;
+    position: relative;
+    top: 0.4em;
+    right: 0.2em;
+  }
+
+.dot:hover {
+    background-color: rgb(150, 150, 150);
+}
+
+body {
+    margin: 0em;
+}

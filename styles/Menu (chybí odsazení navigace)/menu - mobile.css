@@ -1,0 +1,17 @@
+html {
+    font-family: 'Signika', sans-serif;
+}
+
+body {
+    background-image: url(/img/fullscreen/já\ promo\ \(bez\ DB\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0em;
+}
+
+.describtion {
+    text-align: center;
+    margin-top: 50em;
+    background-color:rgba(255, 255, 255, 0.849);
+    padding: 1em;
+}

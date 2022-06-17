@@ -1,0 +1,15 @@
+.Title {
+    text-align: center;
+    background-color: rgb(177, 213, 255);
+    margin: 1em 7em;
+    padding: 0.5em;
+    border-radius: 50%;
+}
+
+.Content {
+    text-align: center;
+}
+
+.Content__describtion {
+    margin: 4em;
+}
